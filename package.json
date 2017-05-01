@@ -28,7 +28,7 @@
     "flow-remove-types": "^1.1.2",
     "glob": "^7.1.1",
     "global": "^4.3.0",
-    "mapbox-gl": "0.32.1",
+    "mapbox-gl": "https://github.com/stereobooster/mapbox-gl-js.git#es6-modules-prebuilt",
     "pure-render-decorator": "^1.1.0",
     "svg-transform": "0.0.3",
     "viewport-mercator-project": "^2.0.1"
@@ -55,9 +55,9 @@
     "immutable": "^3.7.6",
     "react": "15.x",
     "react-dom": "15.x",
+    "tap-browser-color": "^0.1.2",
     "tape": "^4.5.1",
     "tape-catch": "^1.0.4",
-    "tap-browser-color": "^0.1.2",
     "testron": "^1.2.0"
   },
   "scripts": {
